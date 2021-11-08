@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "QEMU.md",
+            "file": "Windows.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QEMU.md",
+                "file": "Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "a3c2c41e8fb58bf3",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Windows.md",
+    "QEMU.md"
   ]
 }
